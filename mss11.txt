@@ -1,0 +1,13 @@
+class Scripting{
+
+public static void main (String [] args){
+
+FileInputReader fis=new FileInputReader("D://mani.txt");
+
+Reading(fis);
+
+System.out.println("File is created");
+
+}
+
+}
