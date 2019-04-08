@@ -10,4 +10,15 @@ System.out.println("File is created");
 
 }
 
+}...............................................
+
+class ScriptingEx{
+
+
+psmv(String [] args){
+
+FileOutStream fos=new FileInputStream(D:://mniiii);
+
+jhkjAJKHHHH.................S
+}
 }
