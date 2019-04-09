@@ -1,0 +1,5 @@
+a,b,c =10,20,25
+
+print a
+print b 
+print c
