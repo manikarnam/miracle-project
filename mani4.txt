@@ -1,0 +1,21 @@
+class B{
+
+int eid;
+String name;
+String offname;
+
+void display(){
+Sop(eid+" "+name+" "+offname);
+}
+
+publkic static void main(String [] args){
+
+B b=new B();
+b.eid();
+b.name;
+b.offname;
+
+}
+
+
+}
